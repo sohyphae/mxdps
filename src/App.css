@@ -42,8 +42,11 @@ body {
 }
 
 @media (max-width: 768px) {
+  .logo-container {
+    margin-top: 40px;
+  }
   .logo {
-    height: 80px;
+    height: 64px;
   }
 }
 
@@ -67,6 +70,12 @@ body {
   align-items: center;
   justify-content: center;
   margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+  .dips-container-container {
+    margin-top: -32px;
+  }
 }
 
 .dips-container {
@@ -112,8 +121,8 @@ body {
   flex-direction: column;
   align-items: center;
   background-color: black;
-  margin: 0 16px 60px;
-  padding: 2rem 2rem;
+  /* top | right | bottom | left */
+  margin: 0 12px 60px 12px;
   max-width: 1200px;
   box-sizing: border-box;
 }
@@ -133,6 +142,7 @@ body {
   .video {
     height: 60vw;
     width: 90vw;
+    margin: 0;
   }
 }
 
