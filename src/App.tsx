@@ -23,10 +23,10 @@ function App() {
 
       <div className="dips-container-container">
         <div className="dips-container">
-            <img className="gaba-ghanoush" src={gaba} alt="" />
-            <img className="guaca-sophie" src={soph1} alt="" />
-            <img className="pickle-lilley" src={mark} alt="" />
-            <img className="tom-ato-salsa" src={tom} alt="" />
+            <img className="gaba-ghanoush" src={gaba} alt="Gaba Ghanoush of the Mixed Dips band singing at Shambala festival" />
+            <img className="guaca-sophie" src={soph1} alt="Sophie Hyphae, singer in the Mixed Dips, playing synth at Shambala festival" />
+            <img className="pickle-lilley" src={mark} alt="Mark Lilley playing drums in the Mixed Dips live at the Exchange, Bristol" />
+            <img className="tom-ato-salsa" src={tom} alt="Tom levick playing trumpet in the Mixed Dips, live rave band" />
           </div>
       </div>      
 
