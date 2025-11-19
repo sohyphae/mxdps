@@ -38,10 +38,10 @@ function App() {
             Rave classics reimagined with a live band in this tour de force through the tunes that shaped the 90s.
           </p> 
           <p>
-            A joyous collaboration between rave queen drag DJ Gaba Ghanoush, discotheque trumpeteer Tom Levick, the ethereally voiced synth and loops wizard Sophie Hyphae, with sharp beats from Mark Lilley of Svalbard on drums.
+            A joyous collaboration between rave queen drag DJ<a href="https://www.instagram.com/gaba_ghanoush/" target="_blank" rel="noopener noreferrer">Gaba Ghanoush</a>, discotheque trumpeteer Tom Levick, the ethereally voiced synth and loops wizard <a href="https://www.sophiehyphae.com/" target="_blank" rel="noopener noreferrer">Sophie Hyphae</a>, with sharp beats from Mark Lilley of <a href="https://svalbard.bandcamp.com/" target="_blank" rel="noopener noreferrer">Svalbard</a> on drums.
           </p> 
           <p>
-            The Mixed Dips serve up a selection of ecstatic singalongs, brassed up D’n’B bangers, and gritty energetic flavours to get you double-dipping your dancefloor crudités.
+            The Mixed Dips serve up a selection of ecstatic singalongs, brassed up D’n’B bangers, and gritty energetic flavours to get you double-dipping your dancefloor crudités!
           </p>
         </div>  
 
